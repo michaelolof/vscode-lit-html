@@ -41,6 +41,9 @@
 					"include": "source.ts#template-substitution-element"
 				},
 				{
+					"include": "text.html.derivative"
+				},
+				{
 					"include": "text.html.basic"
 				}
 			]
